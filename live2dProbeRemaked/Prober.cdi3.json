@@ -144,10 +144,6 @@
 			"Name": "Head"
 		},
 		{
-			"Id": "LightBackup",
-			"Name": "LightBackup"
-		},
-		{
 			"Id": "Ear",
 			"Name": "Ear"
 		},
@@ -167,11 +163,5 @@
 			"Id": "Eyebrow",
 			"Name": "Eyebrow"
 		}
-	],
-	"CombinedParameters": [
-		[
-			"ParamAngleX",
-			"ParamAngleY"
-		]
 	]
 }
